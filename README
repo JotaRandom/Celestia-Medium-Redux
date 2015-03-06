@@ -1,0 +1,63 @@
+___Celestia Medium Redux___
+
+__Original Celestia Medium Redux Story.__
+_A breif history of why this font exists._
+
+(As I know it anyway)
+
+There is a cartoon show called 'My Little Pony: Friendship is Magic', I happen to have fallen into it's unanticipated fanbase (the 'Bronies').
+
+The show's logo contains text that uses a font called Generation B, as produced by Harold Lohner and it's available to purchase for $20 here(http://www.fontbros.com/cgi-bin/commerce.cgi?preadd=action&key=HAFO-GENB).
+
+Fans began to produce their own material (artwork/videos/websites/games/etc.) based upon the show and they thought it would be great if the text that appeared in their material could look like that in the show's logo.
+
+As such, at some point in time, a replica image was produced and released onto an image board that contained more or less a trace of the text in the logo. This image was used by someone named Purple Tinker as a basis for the original Celestia Medium font.
+
+Some people began to pick up on, and question the morality/legality behind working on a 'knock-off' of a commercial font, as a consequence work upon the original Celestia Medium stopped, as too did it's (regular) availability.
+
+It was at this point I stepped in.
+
+I managed to track down a copy of Celestia Medium, and decided I'd work it into a less legally questionable 'fanbased' form. From the original font file I exported each of the available glyphs as an SVG and reworked them in Inkscape (and also produced several new ones).
+
+This allowed me to make the redux different from the original and also, hopefully, made it distinctive from Generation B.
+
+I should also point out, that before I did start the redux, I asked Harold Lohner if he didn't want me to, he gave me the very clear line of 'please don't rework the Generation B files', which I can't.
+
+
+_I guess it was inevitable..._
+
+Some of you may wonder about the license that this font is under. And the tl:dr version is it's public domain, so you can freely use it how you want, you can freely redistribute it, and you can freely modify it.
+
+The reason why public domain is below:
+
+PurpleTinker released Celestia Medium as public domain prior to ceasing work on it, and since I did work the files directly this means I didn't generate any 'original' content, and so legally I have to release it under the same license.
+
+I've never looked through any open source license in entirety, nor do I know the specifics of public domain, but from what I have come across - public domain feels the 'nice'-est of all licenses available, mainly because of the freedom it offers to anyone whom interacts with the content. The various strings attached to various copyleft materials/licenses detract from the apparent freedom they offer, and as someone who doesn't like strings I find this makes copyleft less attractive as a license.
+
+That being said, I find many more complaints with how most copyright licenses are written. It has become the norm for most purchases of digital content to be a purchase of the license which grants you permission to use the content they cover, and not, in fact, a purchase of the content itself.
+
+Allow me to give an example:
+In the real world, if I purchase a deck of cards, I get a deck of cards, I'll have about 55 in total, and I can do whatever I want to those cards, and if they're still intact after I'm finished with them, I can sell them on to someone else to enjoy.
+
+In the digital world I purchase a card game from the internet, what I purchase allows me 5 installations of said game. This alone informs me that I can press the 'accept license terms' a total of 5 times, any attempts with the same license code afterwards will fail, this mean my purchase is actually a purchase of 5 copies of the license, and not 5 copies of the game, otherwise I'd have to download the game files 5 times. The license will also make it illegal to change any parts of the game files, unlike the physical copy which I can change. The license also prevents liability to the publisher/manufacturer of the game should it cause damage to my computer, again unlike the physical copy, which if found to contain anything dangerous must be recalled by the seller/manufacturer by law. And most licenses purchase for digital downloads make it illegal to resell any unused copies of the license code.
+
+So those are the reasons why this is public domain.
+
+I don't know why you'd want to redistribute the font though, I'll be keeping it up for as long as I have hosting, which I don't plan on changing for a while yet.
+
+_Doenload from the latest Original Celestia Medium Redux_
+
+v1.55:
+Minor fixes, otherwise very similar to the previous version.
+→ Vector glyph zip archive(http://www.mattyhex.net/CMR/media/zips/Glyphset1.55.zip).
+→ TrueType format(http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumRedux1.55.ttf).
+→ PostScript type 0 (zipped archive of both versions) format(http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumReduxPostScript1.55.zip).
+→ FontForge files format(http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumRedux1.55.sfd).
+
+v1.55:
+This version contains an alternative 'I', for people who don't want a dot above the capital.
+→ Vector glyph zip archive(http://www.mattyhex.net/CMR/media/zips/Glyphset1.55.zip).
+→ TrueType format(http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumRedux_alt1.55.ttf).
+→ FontForge file format(http://www.mattyhex.net/CMR/media/fonts/CelestiaMediumRedux_alt1.55.sfd).
+
+Older versions here(http://www.mattyhex.net/CMR/?id=download).
