@@ -1,2 +1,3 @@
-CelestiaReduxMedium.ttf
+*.ttf
 *.sfd-*
+!Fonts/*.ttf
